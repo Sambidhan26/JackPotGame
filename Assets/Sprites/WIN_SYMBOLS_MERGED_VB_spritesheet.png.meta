@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: af1dfaf0053b6b74786e9e63a4d3bee3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2293941703117931570
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_0
+  - first:
+      213: 4932804044800211038
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_1
+  - first:
+      213: -7680295514726937702
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_2
+  - first:
+      213: -5610235835774777661
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_3
+  - first:
+      213: 35018432234071142
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_4
+  - first:
+      213: -1450885743439990646
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_5
+  - first:
+      213: -4192924849062943885
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_6
+  - first:
+      213: -3531180467831929196
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_7
+  - first:
+      213: -4337962750524099756
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_8
+  - first:
+      213: -6583102840247602487
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_9
+  - first:
+      213: 31703456827938707
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_10
+  - first:
+      213: 1372655232377171161
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_11
+  - first:
+      213: 4293800294819132231
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_12
+  - first:
+      213: -5610065138674526259
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_13
+  - first:
+      213: 2496326813819069050
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_14
+  - first:
+      213: 7561168272601305103
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_15
+  - first:
+      213: 7599293262328046519
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_16
+  - first:
+      213: -7448361317510709072
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_17
+  - first:
+      213: 6609490414095742228
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_18
+  - first:
+      213: -1524930507196078085
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_19
+  - first:
+      213: -1679425143571583561
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_20
+  - first:
+      213: 423708677087341178
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_21
+  - first:
+      213: 8145529375150611093
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_22
+  - first:
+      213: -832486253900124584
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_23
+  - first:
+      213: 2122435877047275491
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_24
+  - first:
+      213: -6890829458672724823
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_25
+  - first:
+      213: 5337496004635695889
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_26
+  - first:
+      213: 775369236667000107
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_27
+  - first:
+      213: 2829218369269689789
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_28
+  - first:
+      213: -6239514202849499726
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_29
+  - first:
+      213: 2737574634043995541
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_30
+  - first:
+      213: 1667369789446299644
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_31
+  - first:
+      213: 7382432578273978604
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_32
+  - first:
+      213: -1927874201317835470
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_33
+  - first:
+      213: -8044320896792452149
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_34
+  - first:
+      213: -9217538701735954732
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_35
+  - first:
+      213: -94131987311772085
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_36
+  - first:
+      213: 2228732481401421723
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_37
+  - first:
+      213: 2509879686203072530
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_38
+  - first:
+      213: 5864846399165170153
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_39
+  - first:
+      213: 247624012002433590
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_40
+  - first:
+      213: 7480585427453290869
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_41
+  - first:
+      213: 7934586235315667127
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_42
+  - first:
+      213: 1620722693251927580
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_43
+  - first:
+      213: -6502096932369486167
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_44
+  - first:
+      213: 2492865161316803167
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_45
+  - first:
+      213: 2002398663809452905
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_46
+  - first:
+      213: -894371100092033460
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_47
+  - first:
+      213: 6226069332567111764
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_48
+  - first:
+      213: -6937500896799102575
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_49
+  - first:
+      213: 4973933684188098184
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_50
+  - first:
+      213: -8201251523440910119
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_51
+  - first:
+      213: -8396122931896106545
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_52
+  - first:
+      213: 47929026554436161
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_53
+  - first:
+      213: 9213821933993934069
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_54
+  - first:
+      213: -3568829027786668636
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_55
+  - first:
+      213: 5848985878471295550
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_56
+  - first:
+      213: -2259830702647773629
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_57
+  - first:
+      213: 3727154253772479372
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_58
+  - first:
+      213: -410522956062928511
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_59
+  - first:
+      213: 5080084320544816104
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_60
+  - first:
+      213: 600798072819537308
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_61
+  - first:
+      213: -43484863598237224
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_62
+  - first:
+      213: 121050787273289265
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_63
+  - first:
+      213: -5955735540644583596
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_64
+  - first:
+      213: 2578792816626266984
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_65
+  - first:
+      213: -5720063734194523079
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_66
+  - first:
+      213: 5275054304066843948
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_67
+  - first:
+      213: 2116477156395918174
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_68
+  - first:
+      213: -3116449173518129121
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_69
+  - first:
+      213: -3584170700431852765
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_70
+  - first:
+      213: 6802069477761930546
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_71
+  - first:
+      213: -6509361839929624516
+    second: WIN_SYMBOLS_MERGED_VB_spritesheet_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1846
+        width: 229
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2348ccd33d7b5df10800000000000000
+      internalID: 2293941703117931570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1845
+        width: 239
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e583de4c427d47440800000000000000
+      internalID: 4932804044800211038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1845
+        width: 245
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bccaadbeb1a6590800000000000000
+      internalID: -7680295514726937702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1847
+        width: 226
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c64a7e4b307422b0800000000000000
+      internalID: -5610235835774777661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1847
+        width: 239
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66427ed14196c7000800000000000000
+      internalID: 35018432234071142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1551
+        width: 353
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80b49c7a1b6ddbe0800000000000000
+      internalID: -1450885743439990646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1547
+        width: 341
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373e1b9901dbfc5c0800000000000000
+      internalID: -4192924849062943885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 821
+        width: 306
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4968411d21abefec0800000000000000
+      internalID: -3531180467831929196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 825
+        width: 306
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4537226acd57cc3c0800000000000000
+      internalID: -4337962750524099756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 581
+        width: 283
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c23d2778de14a4a0800000000000000
+      internalID: -6583102840247602487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 581
+        width: 274
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39791624022a07000800000000000000
+      internalID: 31703456827938707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1566
+        width: 301
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc2ce449a6ac0310800000000000000
+      internalID: 1372655232377171161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 583
+        width: 255
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743792d5e94a69b30800000000000000
+      internalID: 4293800294819132231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1590
+        width: 256
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc79082da7b0522b0800000000000000
+      internalID: -5610065138674526259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1577
+        width: 322
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72e7f4d20cb4a220800000000000000
+      internalID: 2496326813819069050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 572
+        width: 262
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00da5fab7aaee860800000000000000
+      internalID: 7561168272601305103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1325
+        width: 240
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b90624658921a40800000000000000
+      internalID: 5337496004635695889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1323
+        width: 252
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b256d41763aa2ca00800000000000000
+      internalID: 775369236667000107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1322
+        width: 279
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd6454fd17634720800000000000000
+      internalID: 2829218369269689789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1322
+        width: 289
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595ff4810a1ddf520800000000000000
+      internalID: 2737574634043995541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1327
+        width: 244
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff1a294dffa32710800000000000000
+      internalID: 1667369789446299644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1072
+        width: 283
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1087c0abe146150800000000000000
+      internalID: 5864846399165170153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1075
+        width: 258
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c1bb44205d1e60800000000000000
+      internalID: 7934586235315667127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1075
+        width: 258
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e02bad3b6fd7610800000000000000
+      internalID: 1620722693251927580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1075
+        width: 268
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea5f22a49e3c5a0800000000000000
+      internalID: -6502096932369486167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1073
+        width: 269
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4693a9193e8693f0800000000000000
+      internalID: -894371100092033460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 830
+        width: 279
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ea16e2556f60540800000000000000
+      internalID: 4973933684188098184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 831
+        width: 275
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc39676b321edf70800000000000000
+      internalID: 9213821933993934069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIN_SYMBOLS_MERGED_VB_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 835
+        width: 285
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3467824f2f773a0e0800000000000000
+      internalID: -2259830702647773629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
